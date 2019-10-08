@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sen.pub</id>
     <title>SEN</title>
-    <updated>2019-10-08T14:37:56.264Z</updated>
+    <updated>2019-10-08T14:51:10.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sen.pub"/>
     <link rel="self" href="https://sen.pub/atom.xml"/>
@@ -10,10 +10,12 @@
     <icon>https://sen.pub/favicon.ico</icon>
     <rights>All rights reserved 2019, SEN</rights>
     <entry>
-        <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://sen.pub/post/hello-world</id>
-        <link href="https://sen.pub/post/hello-world">
+        <title type="html"><![CDATA[Halo]]></title>
+        <id>https://sen.pub/post/Halo</id>
+        <link href="https://sen.pub/post/Halo">
         </link>
         <updated>2019-10-08T13:56:12.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一个还没决定好做什么的小站，可能会分享些乱七八糟的东西。还在备考，所以更新时间不确定啦。</p>
+]]></content>
     </entry>
 </feed>
