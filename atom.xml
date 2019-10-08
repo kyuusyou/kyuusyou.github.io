@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sen.pub</id>
     <title>SEN</title>
-    <updated>2019-10-08T14:12:14.392Z</updated>
+    <updated>2019-10-08T14:13:03.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sen.pub"/>
     <link rel="self" href="https://sen.pub/atom.xml"/>
@@ -10,17 +10,10 @@
     <icon>https://sen.pub/favicon.ico</icon>
     <rights>All rights reserved 2019, SEN</rights>
     <entry>
-        <title type="html"><![CDATA[Cloudflare 中转 V2Ray WebSocket 的流量]]></title>
+        <title type="html"><![CDATA[Hello World]]></title>
         <id>https://sen.pub/post/begin</id>
         <link href="https://sen.pub/post/begin">
         </link>
         <updated>2019-10-08T13:56:12.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>使用Cloudflare 中转 V2Ray WebSocket 的流量来避免 IP 被墙  https://233blog.com/post/22/</li>
-<li>官方指导说明：https://www.v2ray.com</li>
-<li>另一个配置指南：https://toutyrater.github.io/</li>
-<li>Github官方地址：https://github.com/v2ray/v2ray-core</li>
-</ol>
-]]></content>
     </entry>
 </feed>
